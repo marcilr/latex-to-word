@@ -11,3 +11,6 @@ latex-to-word.txt
 links.txt
   LaTeX to word related links
 
+pandoc/
+  Pandoc a universal document converter
+  https://pandoc.org/
